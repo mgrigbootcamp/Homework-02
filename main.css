@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: lightyellow;
+}
+
+    
+
+body{
+    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=df80546b27&attid=0.1&permmsgid=msg-f:1700611631958172630&th=1799c944dfc3a3d6&view=att&disp=safe);
+}
+li {
+    display: table-row;
+    border-width: 50px;
+    font-size: medium;
+    background-color: black;
+    color: blanchedalmond;
+}
+.Links{
+    background-color: maroon;
+    color: midnightblue;
+    padding: 20px;
+}
+
+   
+
+
+.about-me{
+    margin-top: 500px;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.Contact-Me{
+    background-color: lightseagreen;
+    border: midnightblue;
+    border-style: groove;
+    border-width: 15px;
+    
+}
